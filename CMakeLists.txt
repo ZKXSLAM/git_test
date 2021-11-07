@@ -18,4 +18,3 @@ INCLUDE_DIRECTORIES( ${PROJECT_SOURCE_DIR}/include)
 
 #增加子文件夹，也就是进入源代码文件夹继续构建
 ADD_SUBDIRECTORY( ${PROJECT_SOURCE_DIR}/src)
-

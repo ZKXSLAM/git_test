@@ -1,7 +1,4 @@
-#include <iostream>
+//
+// Created by nio on 2021/11/7.
+//
 
-int main(int argc, char**argv)
-{
-    std::cout<<"Hello SLAM!"<<std::endl;
-    return 0;
-}
