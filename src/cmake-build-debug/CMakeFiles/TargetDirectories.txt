@@ -1,0 +1,3 @@
+/home/nio/code/git_test/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nio/code/git_test/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nio/code/git_test/src/cmake-build-debug/CMakeFiles/main.dir
