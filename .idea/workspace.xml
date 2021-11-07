@@ -28,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="main" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -80,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636269769168</updated>
       <workItem from="1636269770639" duration="3521000" />
-      <workItem from="1636280471304" duration="1335000" />
+      <workItem from="1636280471304" duration="1898000" />
     </task>
     <task id="LOCAL-00001" summary="test1.0">
       <created>1636287225041</created>
@@ -113,7 +116,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="branch1" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
